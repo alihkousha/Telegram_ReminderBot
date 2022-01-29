@@ -1,0 +1,3 @@
+request
+python-telegram-bot
+psycopg2
